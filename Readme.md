@@ -19,10 +19,6 @@
     -   [Player Movement and Physics](#player-movement-and-physics)
     -   [Collision Detection](#collision-detection)
     -   [Rendering](#rendering)
--   [Future Enhancements](#future-enhancements)
--   [Contributing](#contributing)
--   [License](#license)
--   [Contact](#contact)
 
 ## Introduction
 
