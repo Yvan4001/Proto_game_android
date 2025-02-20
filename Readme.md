@@ -2,7 +2,7 @@
 
 **A Simple 2D Platformer Game for Android**
 
-![Game Screenshot](path/to/your/screenshot.png)  <!-- Replace with a screenshot of your game -->
+![Game Screenshot](./capture_game_proto.png)  <!-- Replace with a screenshot of your game -->
 
 ## Table of Contents
 
